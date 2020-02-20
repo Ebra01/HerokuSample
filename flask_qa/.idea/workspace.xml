@@ -20,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Virtual Environments &amp; Interpreters/Flask" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,9 +49,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="428" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1582203758994" />
-    <state x="768" y="493" key="SettingsEditor" timestamp="1582204535273">
+    <state x="768" y="493" key="SettingsEditor" timestamp="1582205688941">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="768" y="493" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1582204535273" />
+    <state x="768" y="493" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1582205688941" />
   </component>
 </project>
